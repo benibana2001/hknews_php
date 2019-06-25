@@ -1,1 +1,1 @@
-web: vendor/bin/hknews_php /
+web: hknews_php /
