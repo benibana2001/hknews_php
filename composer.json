@@ -1,0 +1,10 @@
+{
+    "name": "yusuke/hknews_php",
+    "authors": [
+        {
+            "name": "benibana2001",
+            "email": "benibana2001@gmail.com"
+        }
+    ],
+    "require": {}
+}
